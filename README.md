@@ -43,11 +43,9 @@ Users can easily add, mark as completed, and delete their daily tasks through a 
 
 ## How It Works
 
-   1.**Enter a task in the input field.**
-   
-   2.**Click Add or press Enter to add the task to the list.**
-   
-   3.**Tick the checkbox to mark the task as completed (asks “Completed?”).**
+  - 1.**Enter a task in the input field.**
+  - 2.**Click Add or press Enter to add the task to the list.**
+  - 3.**Tick the checkbox to mark the task as completed (asks “Completed?”).**
    
    4.**Click Delete to remove any task from the list.**
    
